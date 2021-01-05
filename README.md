@@ -4,7 +4,12 @@ App Name - **HASH GENERATOR**
 
 Language Used - **KOTLIN**
 
-This is an application which takes input from user and prodeuces corresponding Hash output using various hashing algorithms.
+This is an application which takes input from user and produces corresponding Hash output using various hashing algorithms.
+
+Algorithms supported -
+1. SHA-256
+2. SHA-512
+5. MD5
 
 # HASHING
 
@@ -13,7 +18,7 @@ For instance, think of a paper document that you keep crumpling to a point where
 
 # COMPONENTS
 
-1. Navigation COmponents
+1. Navigation Components
 2. Animations
 3. ViewModels
 4. Kotlin Coroutines
